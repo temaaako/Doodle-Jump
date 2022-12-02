@@ -11,7 +11,6 @@ class GamePlatform:
         self.id = self.canvas.create_image(x, y, anchor=S, image=self.sprite)
         self.canvas.pack()
 
-    #Возвращает левую границу, правую границу, верхнюю границу
     def get_borders(self):
         half_width = self.sprite.width()/2
         height = self.sprite.height()
