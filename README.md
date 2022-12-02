@@ -1,3 +1,3 @@
 # Doodle-Jump-with-Tkinter-Canvas
 
-game in one day made with Tkinter Canvas
+One day game made with Tkinter Canvas
